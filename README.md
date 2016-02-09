@@ -4,3 +4,5 @@ This is a small project from [tutorialzine](http://tutorialzine.com/2013/04/serv
 
 The app provide a list of services with prices. You can choose services by checking boxes, and the total price will be calculated automatically.
 Originally, the app has a order feature achieved by php. Here the feature is not supported.
+
+Open index.html to run the app.
